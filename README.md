@@ -1,2 +1,2 @@
 # practice
-this is a file to practice git
+this is a repo to practice git
